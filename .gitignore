@@ -1,0 +1,6 @@
+client/node_modules
+comments/node_modules
+posts/node_modules
+events-bus/node_modules
+query/node_modules
+moderation/node_modules
